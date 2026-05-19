@@ -14,7 +14,7 @@
 
 🤖 **AI agent 兄弟们：** 直接读 [`AGENT_GUIDE.md`](AGENT_GUIDE.md) —— 给 LLM 消费的路由 index，不是给人浏览的。
 
-🎯 **准备 2026 AI 秋招？** → [**ARIS-in-AI-Offer**](https://github.com/wanshuiyin/ARIS-in-AI-Offer)（[English](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/README_EN.md)）·  长文中文 ML / LLM / 多模态 / 生成式面试 cheat sheet 合集——每篇公式推导 + 从零 PyTorch 代码 + 25 高频面试题（L1 必会 / L2 进阶 / L3 顶级 lab），全部由 ARIS 的 `/render-html` workflow 自动生成。**希望大家秋招的时候轻松一点 🌱**
+🎯 **准备 2026 AI 秋招？** → [**🌐 ARIS-in-AI-Offer 网页版**](https://wanshuiyin.github.io/ARIS-in-AI-Offer/) · [GitHub repo](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · [English](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/README_EN.md) ·  长文中文 ML / LLM / 多模态 / 生成式 / Agent 面试 cheat sheet 合集——每篇公式推导 + 从零 PyTorch 代码 + 25 高频面试题（L1 必会 / L2 进阶 / L3 顶级 lab），全部由 ARIS 的 `/render-html` workflow 自动生成。**希望大家秋招的时候轻松一点 🌱**
 
 ![ARIS Logo](docs/aris_logo.svg)
 
