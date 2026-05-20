@@ -24,7 +24,7 @@
 
 > 📖 *Preview from the [Diffusion Foundations cheat sheet](https://wanshuiyin.github.io/ARIS-in-AI-Offer/tutorials/diffusion_foundations_tutorial.html) — every tutorial in [ARIS-in-AI-Offer](https://github.com/wanshuiyin/ARIS-in-AI-Offer) follows the same three-pillar structure (foundations / interview Q&A / runnable code).*
 
-🌱 **Beyond 科研 → 任何 "研究"**：[**ARIS-Anything**](https://github.com/wanshuiyin/ARIS-Anything) 探索把 ARIS 的五步 loop（plan / draft / 对抗审 / 迭代 / 持久化）推广到非学术的结构化研究——投资尽调 / 法律研究 / 市场研究 / 自驱学习 / 调查新闻 / 工程复盘等。**Incoming siblings**：🎬 ARIS-Movie（长视频生成 + movie wiki 对抗审）· 📐 ARIS-PRD（产品需求文档）· 🎨 ARIS-Design（设计 brief 对抗评审）。
+🌱 **Beyond 科研 → 任何 "研究"**：[**ARIS-Anything**](https://github.com/wanshuiyin/ARIS-Anything) 探索把 ARIS 的五步 loop（plan / draft / 对抗审 / 迭代 / 持久化）推广到非学术的结构化研究——投资尽调 / 法律研究 / 市场研究 / 自驱学习 / 调查新闻 / 工程复盘等。**Incoming siblings**：🎬 ARIS-Movie（长视频生成 + movie wiki 对抗审）· 📐 ARIS-PRD（产品需求文档）· 🎨 ARIS-Design（设计 brief 对抗评审）· 🏋️ ARIS-Gym（skill 跑分 + OpenAI-Gym-for-research-agents 的 meta 评测层）。
 
 🔥 [**ARIS-Code CLI — 独立安装版**](docs/ARIS-Code-README_CN.md) · [English](docs/ARIS-Code-README_EN.md) | [⬇️ Download](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/releases/latest)
 
