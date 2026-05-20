@@ -14,7 +14,15 @@
 
 🤖 **AI agents:** Read [`AGENT_GUIDE.md`](AGENT_GUIDE.md) instead — structured for LLM consumption, not human browsing.
 
-🎯 **准备 2026 AI 秋招？** → [**🌐 ARIS-in-AI-Offer 网页版**](https://wanshuiyin.github.io/ARIS-in-AI-Offer/) · [GitHub repo](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · [English](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/README_EN.md) · 长文中文 ML / LLM / 多模态 / 生成式 / Agent 面试 cheat sheet 合集——每篇公式推导 + 从零 PyTorch 代码 + 25 高频面试题（L1 必会 / L2 进阶 / L3 顶级 lab），全部由 ARIS 的 `/render-html` workflow 自动生成。**希望大家秋招的时候轻松一点 🌱**
+🎯 **准备 2026 AI 秋招？** → [**🌐 ARIS-in-AI-Offer 网页版**](https://wanshuiyin.github.io/ARIS-in-AI-Offer/) · [GitHub repo](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · [中文 README](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/README_CN.md) · 23 篇双语 ML / LLM / 多模态 / 生成式 / Agent 面试 cheat sheet 合集——每篇公式推导 + 从零 PyTorch 代码 + 25 高频面试题（L1 必会 / L2 进阶 / L3 顶级 lab），全部由 ARIS 的 `/render-html` workflow 自动生成。**希望大家秋招的时候轻松一点 🌱**
+
+<p align="center">
+  <a href="https://github.com/wanshuiyin/ARIS-in-AI-Offer">
+    <img src="https://raw.githubusercontent.com/wanshuiyin/ARIS-in-AI-Offer/main/assets/preview_strip.jpg" alt="ARIS-in-AI-Offer preview — ① Foundations + ② Interview Q&A + ③ From-Scratch Code, three columns from a representative cheat sheet" width="100%">
+  </a>
+</p>
+
+> 📖 *Preview from the [Diffusion Foundations cheat sheet](https://wanshuiyin.github.io/ARIS-in-AI-Offer/tutorials/diffusion_foundations_tutorial.html) — every tutorial in [ARIS-in-AI-Offer](https://github.com/wanshuiyin/ARIS-in-AI-Offer) follows the same three-pillar structure (foundations / interview Q&A / runnable code).*
 
 🔥 [**ARIS-Code CLI — 独立安装版**](docs/ARIS-Code-README_CN.md) · [English](docs/ARIS-Code-README_EN.md) | [⬇️ Download](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/releases/latest)
 
