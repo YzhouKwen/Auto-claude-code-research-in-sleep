@@ -52,6 +52,17 @@
   </a>
 </p>
 
+<details>
+<summary><b>Run it in 30 seconds</b></summary>
+
+```bash
+git clone https://github.com/tianyilt/claude-fleet
+cd claude-fleet && bash run.sh
+# 浏览器打开 http://127.0.0.1:7878
+```
+
+</details>
+
 🔥 [**ARIS-Code CLI — 独立安装版**](docs/ARIS-Code-README_CN.md) · [English](docs/ARIS-Code-README_EN.md) | [⬇️ 下载](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/releases/latest)
 
 > 📰 **ARIS-Code v0.4.5 → v0.4.15** (2026-05) — 11 个 release 的打磨：**新 provider**（DeepSeek V4 Pro / Xiaomi MiMo / Qwen 3.6 / Doubao / Custom OpenAI 兼容 / DashScope）、**推理 + tool-use 一等公民**、**流式 + MCP 可靠性**（关闭 [#228](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/issues/228) / [#151](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/issues/151) / [#172](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/issues/172) / [#249](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/issues/249)）、**安全加固**（system prompt 密钥脱敏；opt-in `sandbox.strictMode`，[#238](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/issues/238)）、**多 provider 计费**、**Skills 包 + drift-CI 同步**，以及一批 bug 修复（[#232](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/issues/232) DeepSeek 弃用、PermissionMode 静默放过、写死日期、reviewer 重置）。逐版本详情见下。贡献者：[@GetIT-Sunday](https://github.com/GetIT-Sunday)、[@Anduin9527](https://github.com/Anduin9527)、[@GO-player-hhy](https://github.com/GO-player-hhy)、[@Jxy-yxJ](https://github.com/Jxy-yxJ)、[@screw-44](https://github.com/screw-44)、[@StevenUST](https://github.com/StevenUST)、[@opposj](https://github.com/opposj)、[@ShijunLei-cn](https://github.com/ShijunLei-cn)、[@algojogacor](https://github.com/algojogacor)。
