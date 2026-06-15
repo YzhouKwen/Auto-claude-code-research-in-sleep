@@ -16,6 +16,16 @@
 
 🚀 **Beyond 科研 → 任何 "研究"**：[**ARIS-Anything**](https://github.com/wanshuiyin/ARIS-Anything) 把 ARIS 的五步 loop（plan / draft / 对抗审 / 迭代 / 持久化）推广到非学术的结构化研究——投资尽调 / 法律研究 / 市场研究 / 自驱学习 / 调查新闻 / 工程复盘等。
 
+🎬 **ARIS goes multimodal → [ARIS-Movie-Director](https://github.com/wanshuiyin/ARIS-Movie-Director)** — from research & coding into **visual generation**: hand over a fuzzy story, wake up to a **cross-model-audited movie** (reference run = 19 scenes). Long-horizon visual stories drift two ways — 🧠 **long-range forgetting** and 🗣️ **self-approved streaming** (each frame signed off by the model that drew it). ARIS answers with the same DNA: a **research-wiki** for memory + **multi-agent debate** so *no frame signs off on itself*.
+
+<p align="center">
+  <a href="https://wanshuiyin.github.io/ARIS-Movie-Director/comic/">
+    <img src="https://raw.githubusercontent.com/wanshuiyin/ARIS-Movie-Director/main/docs/comic_cover_v4.webp" alt="ARIS-Movie-Director — watch the cross-model-audited image movie (19 scenes) in your browser" width="100%">
+  </a>
+</p>
+
+> 🎞️ *Image-based today, video next — **[▶ watch all 19 scenes →](https://wanshuiyin.github.io/ARIS-Movie-Director/comic/)***
+
 🎯 **准备 2026 AI 秋招？** → [**🌐 ARIS-in-AI-Offer**](https://wanshuiyin.github.io/ARIS-in-AI-Offer/) · [GitHub repo](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · [中文 README](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/README_CN.md) —— 23 篇双语 ML / LLM / 多模态 / 生成式 / Agent 面试 cheat sheet，每篇 = 公式推导 + 从零 PyTorch + 25 高频面试题（L1 / L2 / L3），全部由 ARIS 的 `/render-html` 自动生成。**希望大家秋招轻松一点 🌱**
 
 <details>

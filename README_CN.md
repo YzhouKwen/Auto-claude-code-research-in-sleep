@@ -16,6 +16,16 @@
 
 🚀 **从 科研 → 任何 "研究"**：[**ARIS-Anything**](https://github.com/wanshuiyin/ARIS-Anything) 把 ARIS 的五步 loop（plan / draft / 跨模型对抗审 / 迭代 / 持久化）从学术科研推广到非学术的结构化研究——投资尽调 / 法律研究 / 市场研究 / 自驱学习 / 调查新闻 / 工程复盘等。
 
+🎬 **ARIS 走向多模态 → [ARIS-Movie-Director](https://github.com/wanshuiyin/ARIS-Movie-Director)** —— 从科研、coding 走进**视觉生成**：把模糊的故事丢给 agent，睡醒收一部**跨模型审过的电影**（参考片 = 19 个场景）。长程视觉叙事会两头漂——🧠 **长程遗忘** 和 🗣️ **自审式串行**（每帧由画它的模型自己签收，错误一路累积）。ARIS 用同宗的法宝兜住：**research-wiki** 当记忆、把后面的帧锚回最初的事实，**多智能体对抗审**（跨模型盲转写 + token-diff）确保*没有一帧能自己给自己放行*。
+
+<p align="center">
+  <a href="https://wanshuiyin.github.io/ARIS-Movie-Director/comic/">
+    <img src="https://raw.githubusercontent.com/wanshuiyin/ARIS-Movie-Director/main/docs/comic_cover_v4.webp" alt="ARIS-Movie-Director —— 浏览器里看跨模型审过的图像电影（19 个场景）" width="100%">
+  </a>
+</p>
+
+> 🎞️ *现在是图像版，下一步是视频 —— **[▶ 浏览器看全部 19 个场景 →](https://wanshuiyin.github.io/ARIS-Movie-Director/comic/)***
+
 🎯 **准备 2026 AI 秋招？** → [**🌐 ARIS-in-AI-Offer 网页版**](https://wanshuiyin.github.io/ARIS-in-AI-Offer/) · [GitHub repo](https://github.com/wanshuiyin/ARIS-in-AI-Offer) · [English](https://github.com/wanshuiyin/ARIS-in-AI-Offer/blob/main/README_EN.md) —— 长文中文 ML / LLM / 多模态 / 生成式 / Agent 面试 cheat sheet，每篇 = 公式推导 + 从零 PyTorch + 25 高频面试题（L1 / L2 / L3），全部由 ARIS 的 `/render-html` 自动生成。**希望大家秋招的时候轻松一点 🌱**
 
 <details>
